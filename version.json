@@ -1,14 +1,14 @@
 {
-  "version": "2.2.9",
+  "version": "2.2.10",
   "build_date": "2026-06-09",
-  "published_at": "2026-06-09T17:26:10",
-  "notes": "修复自更新 PowerShell 脚本编码问题，避免下载完成后脚本未执行导致无法替换；更新状态新增 waiting_exit，并将等待旧进程退出的时间从 60 秒缩短到 8 秒，超时后自动强制结束旧进程后继续替换。",
+  "published_at": "2026-06-09T17:40:25",
+  "notes": "补充更新包断点续传与下载失败自动续传；下载线程新增续传/重试状态提示；支持复用已完整下载的更新包，减少重复下载。",
   "assets": {
     "licensed": {
-      "file_name": "tongkatong_v2.2.9.exe",
-      "sha256": "dacf639d1ad06cffca3c7e5db846345659e80b59ed3541ceae946cb287ad5f1b",
-      "size": 113069182,
-      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.9/tongkatong_v2.2.9.exe"
+      "file_name": "tongkatong_v2.2.10.exe",
+      "sha256": "50dacca0665489081985450c85a1e74d91eb67d14b59c76fe0466960a7b08a34",
+      "size": 113072543,
+      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.10/tongkatong_v2.2.10.exe"
     }
   }
 }
