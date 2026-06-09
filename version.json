@@ -1,14 +1,14 @@
 {
-  "version": "2.2.8",
+  "version": "2.2.9",
   "build_date": "2026-06-09",
-  "published_at": "2026-06-09T17:07:53",
-  "notes": "优化手动工作日和休息日管理，支持按日期范围批量添加；补充去重、冲突替换、删除选中和结果提示；替换软件窗口、托盘与打包图标为新的多尺寸 ICO。",
+  "published_at": "2026-06-09T17:26:10",
+  "notes": "修复自更新 PowerShell 脚本编码问题，避免下载完成后脚本未执行导致无法替换；更新状态新增 waiting_exit，并将等待旧进程退出的时间从 60 秒缩短到 8 秒，超时后自动强制结束旧进程后继续替换。",
   "assets": {
     "licensed": {
-      "file_name": "tongkatong_v2.2.8.exe",
-      "sha256": "654177e6e32a034ac3c8d6e50456d64cbef2f584298c284c9b0a5b718e1b7fbd",
-      "size": 113070050,
-      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.8/tongkatong_v2.2.8.exe"
+      "file_name": "tongkatong_v2.2.9.exe",
+      "sha256": "dacf639d1ad06cffca3c7e5db846345659e80b59ed3541ceae946cb287ad5f1b",
+      "size": 113069182,
+      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.9/tongkatong_v2.2.9.exe"
     }
   }
 }
