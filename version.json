@@ -1,14 +1,14 @@
 {
-  "version": "2.2.12",
+  "version": "2.2.13",
   "build_date": "2026-06-09",
-  "published_at": "2026-06-09T18:17:32",
-  "notes": "增强更新诊断能力：设置页新增最近更新状态展示、刷新状态与导出日志包；授权启动补充环境自检提示，便于定位授权文件、公钥和目录权限问题。",
+  "published_at": "2026-06-09T18:31:17",
+  "notes": "修复更新成功后仍误报失败的问题，避免新版在读取中间状态文件时把已成功替换误判为更新未完成。",
   "assets": {
     "licensed": {
-      "file_name": "tongkatong_v2.2.12.exe",
-      "sha256": "bc11ee4bdcfaf80b9ec018772085c4c0b211c2efe7130f7f88bd451fb540a413",
-      "size": 113078199,
-      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.12/tongkatong_v2.2.12.exe"
+      "file_name": "tongkatong_v2.2.13.exe",
+      "sha256": "4061bbfe47137f790ab950241a90fd7f9d6483da48f9303b754948ec5d67d49d",
+      "size": 113078539,
+      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.13/tongkatong_v2.2.13.exe"
     }
   }
 }
