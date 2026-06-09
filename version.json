@@ -1,14 +1,14 @@
 {
-  "version": "2.2.7",
+  "version": "2.2.8",
   "build_date": "2026-06-09",
-  "published_at": "2026-06-09T16:44:44",
-  "notes": "优化手动工作日和休息日管理，支持按日期范围批量添加；补充去重、冲突替换、删除选中和结果提示；确保首页、测试预览与实际调度都正确应用手动日期规则。",
+  "published_at": "2026-06-09T17:07:53",
+  "notes": "优化手动工作日和休息日管理，支持按日期范围批量添加；补充去重、冲突替换、删除选中和结果提示；替换软件窗口、托盘与打包图标为新的多尺寸 ICO。",
   "assets": {
     "licensed": {
-      "file_name": "tongkatong_v2.2.7.exe",
-      "sha256": "83cc885e6675b9112002aa5d9b6e425380c12043578c5cc54495a2c5dea303df",
-      "size": 112890186,
-      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.7/tongkatong_v2.2.7.exe"
+      "file_name": "tongkatong_v2.2.8.exe",
+      "sha256": "654177e6e32a034ac3c8d6e50456d64cbef2f584298c284c9b0a5b718e1b7fbd",
+      "size": 113070050,
+      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.8/tongkatong_v2.2.8.exe"
     }
   }
 }
