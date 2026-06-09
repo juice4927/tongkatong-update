@@ -1,14 +1,14 @@
 {
-  "version": "2.2.10",
+  "version": "2.2.11",
   "build_date": "2026-06-09",
-  "published_at": "2026-06-09T17:40:25",
-  "notes": "补充更新包断点续传与下载失败自动续传；下载线程新增续传/重试状态提示；支持复用已完整下载的更新包，减少重复下载。",
+  "published_at": "2026-06-09T17:55:26",
+  "notes": "关闭 PyInstaller 的 UPX 压缩，提升 onefile 打包版在 Windows 上的启动稳定性，修复部分环境下启动时报 python311.dll 加载失败的问题。",
   "assets": {
     "licensed": {
-      "file_name": "tongkatong_v2.2.10.exe",
-      "sha256": "50dacca0665489081985450c85a1e74d91eb67d14b59c76fe0466960a7b08a34",
-      "size": 113072543,
-      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.10/tongkatong_v2.2.10.exe"
+      "file_name": "tongkatong_v2.2.11.exe",
+      "sha256": "e9bca627c4ffd98f0f9e94f21a0a7dc1965a50afc54b3b619136853424fd27b4",
+      "size": 113073558,
+      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.11/tongkatong_v2.2.11.exe"
     }
   }
 }
