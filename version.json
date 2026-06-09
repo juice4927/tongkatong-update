@@ -1,14 +1,14 @@
 {
-  "version": "2.2.5",
+  "version": "2.2.6",
   "build_date": "2026-06-09",
-  "published_at": "2026-06-09T16:08:50",
-  "notes": "增强授权导入体验，支持直接导入和拖拽 license.dat；完善自更新进度、启动自动检查和失败回滚提示；增强打包发布脚本的资产校验与 Release 自动上传。",
+  "published_at": "2026-06-09T16:22:31",
+  "notes": "补充更新日志，修复更新包下载后未正常替换原路径 exe、未自动重启的问题，增强自更新退出、替换与重启流程。",
   "assets": {
     "licensed": {
-      "file_name": "tongkatong_v2.2.5.exe",
-      "sha256": "9fbb913d7542d4007ad2dada735b19abc7c986d47df6d0e9b82a5dc91a5daf16",
-      "size": 112884201,
-      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.5/tongkatong_v2.2.5.exe"
+      "file_name": "tongkatong_v2.2.6.exe",
+      "sha256": "fea51496b215d124736b7eec000a9713a6375d5cc5264ea1108cf638935a627f",
+      "size": 112885935,
+      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.6/tongkatong_v2.2.6.exe"
     }
   }
 }
