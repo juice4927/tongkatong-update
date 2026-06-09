@@ -1,14 +1,14 @@
 {
-  "version": "2.2.3",
+  "version": "2.2.4",
   "build_date": "2026-06-09",
-  "published_at": "2026-06-09T15:22:42",
-  "notes": "新增软件自更新能力，支持检查版本、下载更新并自动重启替换；改为公开更新源仅发布授权版。",
+  "published_at": "2026-06-09T15:44:07",
+  "notes": "更新授权版/免授权版区分显示、授权机器码复制、默认更新地址预填。",
   "assets": {
     "licensed": {
-      "file_name": "tongkatong_v2.2.3.exe",
-      "sha256": "0370be1959f664aa5f02528e62872d1082530becdaf565a63a0aa90e28c0605d",
-      "size": 112870812,
-      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.3/tongkatong_v2.2.3.exe"
+      "file_name": "tongkatong_v2.2.4.exe",
+      "sha256": "89dc53da24a5991ecc783c9da386ae355f3c2f8aa82c483c6f89a69b3c056ca5",
+      "size": 112872199,
+      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.4/tongkatong_v2.2.4.exe"
     }
   }
 }
