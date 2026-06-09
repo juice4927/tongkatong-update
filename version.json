@@ -1,14 +1,14 @@
 {
-  "version": "2.2.11",
+  "version": "2.2.12",
   "build_date": "2026-06-09",
-  "published_at": "2026-06-09T17:55:26",
-  "notes": "关闭 PyInstaller 的 UPX 压缩，提升 onefile 打包版在 Windows 上的启动稳定性，修复部分环境下启动时报 python311.dll 加载失败的问题。",
+  "published_at": "2026-06-09T18:17:32",
+  "notes": "增强更新诊断能力：设置页新增最近更新状态展示、刷新状态与导出日志包；授权启动补充环境自检提示，便于定位授权文件、公钥和目录权限问题。",
   "assets": {
     "licensed": {
-      "file_name": "tongkatong_v2.2.11.exe",
-      "sha256": "e9bca627c4ffd98f0f9e94f21a0a7dc1965a50afc54b3b619136853424fd27b4",
-      "size": 113073558,
-      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.11/tongkatong_v2.2.11.exe"
+      "file_name": "tongkatong_v2.2.12.exe",
+      "sha256": "bc11ee4bdcfaf80b9ec018772085c4c0b211c2efe7130f7f88bd451fb540a413",
+      "size": 113078199,
+      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.12/tongkatong_v2.2.12.exe"
     }
   }
 }
