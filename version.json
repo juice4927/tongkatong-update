@@ -1,23 +1,23 @@
 {
-  "version": "2.2.20",
+  "version": "2.2.22",
   "build_date": "2026-06-10",
-  "published_at": "2026-06-10T10:19:56",
-  "notes": "v2.2.20: 仪表盘显示打卡结果(✅已完成/❌失败) + 英文文件名修复",
+  "published_at": "2026-06-10T11:05:57",
+  "notes": "v2.2.22: 修复中文路径VBS编码损坏导致更新失败",
   "assets": {
     "licensed": {
-      "file_name": "tongkatong_v2.2.20.exe",
-      "sha256": "f826f3e56bf481c9fa1e0ebb274c808b1410dd959a4e25c238d7c3b8e08589d6",
-      "size": 113110454,
-      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.20/tongkatong_v2.2.20.exe"
+      "file_name": "tongkatong_v2.2.22.exe",
+      "sha256": "b41b60e54e7ac3093f5958213486c33e8031f64ccb0e2f30637b72ff685635bb",
+      "size": 113108933,
+      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.22/tongkatong_v2.2.22.exe"
     }
   },
   "delta": {
-    "from_version": "2.2.18",
+    "from_version": "2.2.20",
     "licensed": {
-      "file_name": "tongkatong_v2.2.18_to_v2.2.20_licensed.patch",
-      "sha256": "c2ea43703ce79c65a9720ec9df3de546be59b8bcb35c78cb439d116b3fa28997",
-      "size": 383735,
-      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.20/tongkatong_v2.2.18_to_v2.2.20_licensed.patch"
+      "file_name": "tongkatong_v2.2.20_to_v2.2.22_licensed.patch",
+      "sha256": "11cacbed126de4c93064d1f17271cc5cf1389e3cc1b30d8dbf41a6ed0706b514",
+      "size": 385467,
+      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.22/tongkatong_v2.2.20_to_v2.2.22_licensed.patch"
     }
   }
 }
