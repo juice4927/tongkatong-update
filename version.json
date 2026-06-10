@@ -1,14 +1,23 @@
 {
-  "version": "2.2.13",
-  "build_date": "2026-06-09",
-  "published_at": "2026-06-09T18:31:17",
-  "notes": "修复更新成功后仍误报失败的问题，避免新版在读取中间状态文件时把已成功替换误判为更新未完成。",
+  "version": "2.2.20",
+  "build_date": "2026-06-10",
+  "published_at": "2026-06-10T10:19:56",
+  "notes": "v2.2.20: 仪表盘显示打卡结果(✅已完成/❌失败) + 英文文件名修复",
   "assets": {
     "licensed": {
-      "file_name": "tongkatong_v2.2.13.exe",
-      "sha256": "4061bbfe47137f790ab950241a90fd7f9d6483da48f9303b754948ec5d67d49d",
-      "size": 113078539,
-      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.13/tongkatong_v2.2.13.exe"
+      "file_name": "tongkatong_v2.2.20.exe",
+      "sha256": "f826f3e56bf481c9fa1e0ebb274c808b1410dd959a4e25c238d7c3b8e08589d6",
+      "size": 113110454,
+      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.20/tongkatong_v2.2.20.exe"
+    }
+  },
+  "delta": {
+    "from_version": "2.2.18",
+    "licensed": {
+      "file_name": "tongkatong_v2.2.18_to_v2.2.20_licensed.patch",
+      "sha256": "c2ea43703ce79c65a9720ec9df3de546be59b8bcb35c78cb439d116b3fa28997",
+      "size": 383735,
+      "url": "https://github.com/juice4927/tongkatong-update/releases/download/v2.2.20/tongkatong_v2.2.18_to_v2.2.20_licensed.patch"
     }
   }
 }
